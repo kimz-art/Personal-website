@@ -3,7 +3,9 @@ header{
     background-color: lightslategray;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     padding: 10px;
-    color: navy;
+    color: white;
+    background-image: url(https://imgs.search.brave.com/2mTMDasC-kFOEGdkFQLrJhGuFmX0-yVoC4K1mFOWxV0/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMudW5zcGxhc2gu/Y29tL3Bob3RvLTE3/MDA0MjcyOTYxMzEt/MGNjNGM0NjEwZmM2/P2ZtPWpwZyZxPTYw/Jnc9MzAwMCZhdXRv/PWZvcm1hdCZmaXQ9/Y3JvcCZpeGxpYj1y/Yi00LjEuMCZpeGlk/PU0zd3hNakEzZkRC/OE1IeHpaV0Z5WTJo/OE1URjhmRzF2ZEdo/bGNtSnZZWEprZkdW/dWZEQjhmREI4Zkh3/dw);
+    font-weight: bolder;
 }
 body{
     background-color: lightslategray;
@@ -11,5 +13,7 @@ body{
 p{
     font-size: larger;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    
+}
+span{
+    font-size: medium;
 }
